@@ -595,9 +595,11 @@ address .item:not(:last-child) {
 .footer-email {
   display: flex;
 }
+
 .footer-flex {
   display: flex;
 }
+
 .flex {
   padding-left: 70px;
 }
